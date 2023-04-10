@@ -1,0 +1,154 @@
+body{
+    background-color: white;
+}
+
+.logo{
+    width: 100%;
+    
+}
+.inicio{
+    text-align: center;
+    line-height: normal;
+}
+.inicio li{
+    display: inline;
+    border: 1px;
+    padding: 8px;
+    list-style: none;
+    line-height: 100px;
+    
+}
+.inicio li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    color: white;    
+}
+.articulo{
+    position: absolute;
+    z-index: 10;
+}
+.centrado {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.concentrado {
+    float: left;
+    width: 500px;
+}
+.logoimg {
+    padding: 10px;
+}
+
+.parrafo1 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px;
+}
+.esculturas{
+    float: left;
+    width: 500px;
+    height: 300px;
+}
+.parrafo2 {
+    
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px;
+}
+.duoc{
+    width: 150px;
+}
+.pie{
+    
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+.elementos{
+    float: left;
+    width: 1050px;
+    padding: 100px;
+
+}
+.elemento1{
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+.elemento2{
+    
+    float: right;
+    width: 400px;
+    padding: 20px;
+}
+.TF{
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.listamenufeet{
+    list-style: none;
+    float: left;
+    line-height: 50px;
+    color: white;
+}
+.listamenufeet li a{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.TF2{
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.link1{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.logoduocinf{
+    padding: 50px;
+    float: right;
+}
+.duocinf{
+    width: 500px;
+}
+.derechos{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+}
+.copy{
+    float:left;
+}
+.tituloprincipal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 90px;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-line:underline;
+}
+.boton {
+    
+    width: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 100px;
+    padding: 10px 85px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.misionshit{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-line:overline;
+}

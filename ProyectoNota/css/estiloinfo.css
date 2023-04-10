@@ -1,0 +1,140 @@
+.logo{
+    width: 100%;
+    
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+.inicio{
+    text-align: center;
+    line-height: normal;
+}
+
+.inicio li{
+    display: inline;
+    border: 1px;
+    padding: 8px;
+    list-style: none;
+    line-height: 100px;
+    
+}
+.inicio li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    color: white;    
+}
+.titulo {
+    font-size: 60px;
+    text-align: left;
+    transform: translateX(10%) translateY(-40%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+}
+.subtitulo {
+    text-align: left;
+    transform: translateX(10%) translateY(-10%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.subtitu {
+    font-size: 60px;
+    text-align: left;
+    transform: translateX(10%) translateY(10%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+}
+.parrafo {
+    text-align: left;
+    transform: translateX(10%) translateY(10%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 0%;
+}
+.boton {
+    display: block;
+    width: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 100px 300px;
+    padding: 10px 85px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.boton a {
+    float: left;
+}
+.logoimg{
+    padding: 10px;
+}
+.duoc{
+    width: 150px;
+}
+.pie{
+    
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+.elementos{
+    float: left;
+    width: 1050px;
+    padding: 100px;
+
+}
+.elemento1{
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+.elemento2{
+    
+    float: right;
+    width: 400px;
+    padding: 20px;
+}
+.TF{
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.listamenufeet{
+    list-style: none;
+    float: left;
+    line-height: 50px;
+    color: white;
+}
+.listamenufeet li a{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.TF2{
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.link1{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.logoduocinf{
+    padding: 50px;
+    float: right;
+}
+.duocinf{
+    width: 500px;
+}
+.derechos{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+}
+.copy{
+    float:left;
+}
